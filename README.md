@@ -11,3 +11,5 @@ Este proyecto es un CV en una sola página desarrollado únicamente con **HTML**
 
 - HTML5
 - Metadatos para SEO y Open Graph
+
+https://roadmap.sh/projects/single-page-cv
